@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1>Olá, Como vai? Me chamo Uriel Correia😊</h1>
 
-<!--
-**UriCorreia/UriCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p>🎓 → Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA / Graduando em Análise e Desenvolvimento de Sistemas</p>
+  <p>💼 → Objetivo profissional: Desenvolvedor Full-Stack</p>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h2>Meus contatos</h2>
+  <a href="uriel2405correia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
+  <a href="https://www.linkedin.com/in/uriel-correia-728621280/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+</div>
+    
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Minhas Skills</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,c&perline=3"/>
+</p>
+
+
+---
+
+![Uriel Correia GitHub stats](https://github-readme-stats.vercel.app/api?username=UriCorreia&show_icons=true&theme=tokyonight)
+
+---
+
