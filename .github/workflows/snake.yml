@@ -15,7 +15,7 @@ jobs:
 
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: seu-usuario
+          github_user_name: UriCorreia
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
