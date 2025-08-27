@@ -21,7 +21,9 @@
 
 ---
 
-![Uriel Correia GitHub stats](https://github-readme-stats.vercel.app/api?username=UriCorreia&show_icons=true&theme=tokyonight)
+![Uriel Correia GitHub stats](https://github-readme-stats.vercel.app/api?username=UriCorreia&show_icons=true&theme=aura_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UriCorreia&layout=compact&theme=aura_dark)
 
 ---
 
