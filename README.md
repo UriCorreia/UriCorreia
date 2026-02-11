@@ -14,8 +14,8 @@ I'm an undergraduate student of **Systems Analysis and Development** at **IFBA**
 
 ### 🚀 My Github Stats
 
-![Uriel Correia GitHub stats](https://github-readme-stats.vercel.app/api?username=UriCorreia&show_icons=true&theme=aura_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UriCorreia&layout=compact&theme=aura_dark)
+![Uriel Correia GitHub stats](https://github-readme-stats-one.vercel.app/api?username=UriCorreia&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=UriCorreia&layout=compact&theme=tokyonight)
 
 ---
 
