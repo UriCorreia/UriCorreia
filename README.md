@@ -7,7 +7,7 @@ I'm an undergraduate student of **Systems Analysis and Development** at **IFBA**
 ### 💻 My Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,c&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=html,css,c,java,database&perline=5"/>
 </p>
 
 ---
